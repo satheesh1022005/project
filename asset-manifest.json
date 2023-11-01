@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.073c9b0a.css",
-    "main.js": "/project/static/js/main.75195a8e.js",
+    "main.css": "/project/static/css/main.cf19b631.css",
+    "main.js": "/project/static/js/main.d652c395.js",
     "static/js/787.95c394d5.chunk.js": "/project/static/js/787.95c394d5.chunk.js",
-    "static/media/logo.svg": "/project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ledlight.jpg": "/project/static/media/ledlight.0e7276f5a3a23ee9d451.jpg",
+    "static/media/google.png": "/project/static/media/google.6bc7d49355c4e25579a0.png",
+    "static/media/showerhead.jpg": "/project/static/media/showerhead.808e318f70e0657a0f99.jpg",
+    "static/media/ework.jpg": "/project/static/media/ework.adbbec41dd82298635bd.jpg",
+    "static/media/background.jpeg": "/project/static/media/background.74461832d4946bc69614.jpeg",
     "index.html": "/project/index.html",
-    "main.073c9b0a.css.map": "/project/static/css/main.073c9b0a.css.map",
-    "main.75195a8e.js.map": "/project/static/js/main.75195a8e.js.map",
+    "main.cf19b631.css.map": "/project/static/css/main.cf19b631.css.map",
+    "main.d652c395.js.map": "/project/static/js/main.d652c395.js.map",
     "787.95c394d5.chunk.js.map": "/project/static/js/787.95c394d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.75195a8e.js"
+    "static/css/main.cf19b631.css",
+    "static/js/main.d652c395.js"
   ]
 }
